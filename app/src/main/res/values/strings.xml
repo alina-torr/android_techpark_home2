@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">home2</string>
+    <string name="add_num_button_text">Добавить цифру</string>
+</resources>
